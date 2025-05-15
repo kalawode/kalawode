@@ -1,5 +1,6 @@
-Hi there 👋, I'm Katherina, a final-year Biomedical Sciences student at The University of Edinburgh👩‍🎓
+<img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" width="40" /> Hi there, I'm Katherina!
 
+- A final-year Biomedical Sciences student at The University of Edinburgh👩‍🎓
 - I have a growing passion for artificial intelligence and data science
 - Motivated by curiosity, driven by learning, and ready to make a difference!💡
 - 💁‍♀️ I have experience with
